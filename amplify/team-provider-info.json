@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-roadvisionflutter-dev-180503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::017075265527:role/amplify-roadvisionflutter-dev-180503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::017075265527:role/amplify-roadvisionflutter-dev-180503-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-roadvisionflutter-dev-180503-deployment",
+      "UnauthRoleName": "amplify-roadvisionflutter-dev-180503-unauthRole",
+      "StackName": "amplify-roadvisionflutter-dev-180503",
+      "StackId": "arn:aws:cloudformation:ap-south-1:017075265527:stack/amplify-roadvisionflutter-dev-180503/3b1d4780-e86c-11ed-a9fd-063747956c56",
+      "AmplifyAppId": "dd9kf746xklna"
+    },
+    "categories": {
+      "auth": {
+        "roadvisionflutterd2885023": {}
+      },
+      "storage": {
+        "s3da1c9514": {}
+      }
+    }
+  }
+}
